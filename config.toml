@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = "//cieloazul310.github.io"
+baseurl = "http://cieloazul310.github.io"
 languageCode = "ja"
 defaultContentLanguage = "ja-custom"
 title = "水戸地図"
@@ -82,7 +82,7 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
+  url = "https://github.com/cieloazul310"
 #[[menu.links]]
 #  weight = 1
 #  identifier = "stackoverflow"
