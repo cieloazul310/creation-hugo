@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = "map310.com"
+baseurl = "cieloazul310.github.io"
 languageCode = "ja"
 defaultContentLanguage = "ja-custom"
 title = "水戸地図"
