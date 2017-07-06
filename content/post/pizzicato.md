@@ -1,18 +1,18 @@
 +++
 autoThumbnailImage = false
-categories = ["音楽","ビートルズ"]
+categories = ["Data Visualization","J.LEAGUE"]
 #coverCaption = "Hello, Goodbye. I say Yes."
 #coverImage = "img/cover.jpg"
 #coverMeta = "in"
 #coverSize = "full"
 date = "2017-07-05T14:29:37+09:00"
-draft = true
+draft = false
 keywords = ["tech"]
 metaAlignment = "center"
 tags = ["tag1","tag2"]
 thumbnailImage = "img/cover.jpg"
 thumbnailImagePosition = "left"
-title = "New Post"
+title = "iframe D3.js Example"
 
 +++
 

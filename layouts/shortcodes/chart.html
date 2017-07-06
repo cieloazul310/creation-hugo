@@ -1,5 +1,5 @@
 <div>
   <h4>{{ .Get 1 }}</h4>
-  <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" height="540" style="width:100%;" src="{{ with .Site.BaseURL }}{{ . | safeHTML }}{{ end }}figure/{{ .Get 0 }}/">
+  <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" height="540" style="width:100%;" src="{{ with .Site.BaseURL }}{{ . | safeHTML }}{{ end }}/figure/{{ .Get 0 }}/">
   </iframe>
 </div>
