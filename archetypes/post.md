@@ -5,6 +5,12 @@ categories = ["category", "subcategory"]
 tags = ["tag1", "tag2"]
 keywords = ["tech"]
 draft = true
+comments = true
+
+showDate = true
+showPagination = true
+showSocial = true
+showTags = true
 
 autoThumbnailImage = false
 thumbnailImage = "img/cover.jpg"
