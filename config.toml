@@ -18,7 +18,7 @@ defaultContentLanguage = "ja-custom"
 title = "水戸地図"
 theme = "hugo-tranquilpeak-theme"
 #disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-74683419-3"
 paginate = 10
 canonifyurls = true
 
@@ -82,7 +82,7 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/cieloazul310"
+  url = "//github.com/cieloazul310"
 #[[menu.links]]
 #  weight = 1
 #  identifier = "stackoverflow"
@@ -94,7 +94,7 @@ canonifyurls = true
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
-  url = "https://twitter.com/cieloazul310"
+  url = "//twitter.com/cieloazul310"
 
 [[menu.misc]]
   weight = 0
@@ -120,7 +120,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "水戸地図はD3.jsやOpenLayersといったJavaScriptのライブラリの使い方を研究するデータビジュアライゼーションの実験室です。"
 
   # Customization
   # Define the behavior of the sidebar
